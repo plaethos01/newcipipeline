@@ -1,4 +1,6 @@
 #!/bin/bash
+# this is added for the script file 
+#this will denote the changes
 
 TOMCAT_URL="https://www-eu.apache.org/dist/tomcat/tomcat-8/v8.5.43/bin/apache-tomcat-8.5.43.tar.gz"
 
